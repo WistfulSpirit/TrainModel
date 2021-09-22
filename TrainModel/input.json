@@ -1,0 +1,20 @@
+{
+  "Nodes": [
+    { "name": "A" },
+    { "name": "B" },
+    { "name": "C" },
+    { "name": "D" },
+    { "name": "E" }
+    ],
+  "Arcs": {
+    "AB": 9,
+    "BC": 2,
+    "BE": 4,
+    "ED": 3,
+    "DC": 2
+  },
+  "Trains": [
+    "ABC",
+    "BEDCB"
+  ]
+}
